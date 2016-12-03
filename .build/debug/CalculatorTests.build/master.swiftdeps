@@ -1,5 +1,0 @@
-version: "Swift version 3.0.1 (swift-3.0.1-PREVIEW-3)"
-options: "4e4bfccb2b581e21cf890effa95b86ab"
-build_time: [529784959, 997190000]
-inputs:
-  "/home/codio/workspace/Chapter1/Tests/CalculatorTests/CalculatorTests.swift": [529784956, 0]
