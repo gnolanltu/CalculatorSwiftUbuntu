@@ -1,0 +1,176 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CalculatorTests"
+provides-nominal:
+- "C15CalculatorTests15CalculatorTests"
+provides-member:
+- ["C15CalculatorTests15CalculatorTests", ""]
+- ["C15CalculatorTests15CalculatorTests", "allTests"]
+depends-top-level:
+- "String"
+- "XCTestCase"
+- !private "StringLiteralType"
+- !private "IntegerLiteralType"
+- "Void"
+- "AssignmentPrecedence"
+- !private "FloatLiteralType"
+- !private "XCTAssertEqual"
+- "CalculatorTests"
+- "Calculator"
+depends-member:
+- !private ["Ps9AnyObject", "Calculator"]
+- !private ["Ps9AnyObject", "XCTAssertEqual"]
+- !private ["Ps9AnyObject", "add"]
+- ["Ps9AnyObject", "allTests"]
+- ["Ps9AnyObject", "calc"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "setUp"]
+- ["Ps9AnyObject", "testAddCheck"]
+- ["Ps9AnyObject", ""]
+- ["Sa", "deinit"]
+- !private ["C10Calculator10Calculator", "add"]
+- ["C10Calculator10Calculator", "deinit"]
+- !private ["C10Calculator10Calculator", "init"]
+- ["C15CalculatorTests15CalculatorTests", "Calculator"]
+- ["C15CalculatorTests15CalculatorTests", "CalculatorTests"]
+- ["C15CalculatorTests15CalculatorTests", "String"]
+- ["C15CalculatorTests15CalculatorTests", "Void"]
+- !private ["C15CalculatorTests15CalculatorTests", "XCTAssertEqual"]
+- ["C15CalculatorTests15CalculatorTests", "allTests"]
+- ["C15CalculatorTests15CalculatorTests", "calc"]
+- ["C15CalculatorTests15CalculatorTests", "deinit"]
+- ["C15CalculatorTests15CalculatorTests", "init"]
+- ["C15CalculatorTests15CalculatorTests", "setUp"]
+- ["C15CalculatorTests15CalculatorTests", "testAddCheck"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "init"]
+- ["SQ", "deinit"]
+- ["Si", "deinit"]
+- !private ["P6XCTest8Listable", "Calculator"]
+- !private ["P6XCTest8Listable", "XCTAssertEqual"]
+- ["P6XCTest8Listable", "allTests"]
+- ["P6XCTest8Listable", "calc"]
+- !private ["P6XCTest8Listable", "init"]
+- ["P6XCTest8Listable", "setUp"]
+- ["P6XCTest8Listable", "testAddCheck"]
+- ["P6XCTest8Listable", ""]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["P6XCTest24PerformanceMeterDelegate", "Calculator"]
+- !private ["P6XCTest24PerformanceMeterDelegate", "XCTAssertEqual"]
+- ["P6XCTest24PerformanceMeterDelegate", "allTests"]
+- ["P6XCTest24PerformanceMeterDelegate", "calc"]
+- !private ["P6XCTest24PerformanceMeterDelegate", "init"]
+- ["P6XCTest24PerformanceMeterDelegate", "setUp"]
+- ["P6XCTest24PerformanceMeterDelegate", "testAddCheck"]
+- ["P6XCTest24PerformanceMeterDelegate", ""]
+- ["Vs12StaticString", "deinit"]
+- !private ["Vs12StaticString", "init"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- ["Su", "deinit"]
+- ["C6XCTest6XCTest", "Calculator"]
+- ["C6XCTest6XCTest", "CalculatorTests"]
+- ["C6XCTest6XCTest", "String"]
+- ["C6XCTest6XCTest", "Void"]
+- !private ["C6XCTest6XCTest", "XCTAssertEqual"]
+- ["C6XCTest6XCTest", "allTests"]
+- ["C6XCTest6XCTest", "calc"]
+- ["C6XCTest6XCTest", "setUp"]
+- ["C6XCTest6XCTest", "testAddCheck"]
+- ["C6XCTest10XCTestCase", "Calculator"]
+- ["C6XCTest10XCTestCase", "CalculatorTests"]
+- ["C6XCTest10XCTestCase", "String"]
+- ["C6XCTest10XCTestCase", "Void"]
+- !private ["C6XCTest10XCTestCase", "XCTAssertEqual"]
+- ["C6XCTest10XCTestCase", "allTests"]
+- ["C6XCTest10XCTestCase", "calc"]
+- ["C6XCTest10XCTestCase", "deinit"]
+- ["C6XCTest10XCTestCase", "init"]
+- ["C6XCTest10XCTestCase", "setUp"]
+- ["C6XCTest10XCTestCase", "testAddCheck"]
+- ["C6XCTest10XCTestCase", ""]
+- !private ["P10Foundation12_CFBridgable", "init"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["P10Foundation12_NSBridgable", "init"]
+- !private ["P10Foundation17_ObjectBridgeable", "init"]
+- !private ["P10Foundation21_ObjectTypeBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sa"
+- "C10Calculator10Calculator"
+- "C15CalculatorTests15CalculatorTests"
+- !private "Ps10Comparable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Ps8Hashable"
+- "SQ"
+- "Si"
+- "P6XCTest8Listable"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "P6XCTest24PerformanceMeterDelegate"
+- "Vs12StaticString"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "Su"
+- "C6XCTest6XCTest"
+- "C6XCTest10XCTestCase"
+- !private "P10Foundation12_CFBridgable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps9_Hashable"
+- !private "P10Foundation12_NSBridgable"
+- !private "P10Foundation17_ObjectBridgeable"
+- !private "P10Foundation21_ObjectTypeBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/home/codio/apple/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/home/codio/apple/swift/usr/lib/swift/shims/Visibility.h"
+- "/home/codio/apple/swift/usr/lib/swift/shims/SwiftStdint.h"
+- "/home/codio/apple/swift/usr/lib/swift/shims/UnicodeShims.h"
+- "/home/codio/apple/swift/usr/lib/swift/shims/SwiftStddef.h"
+- "/home/codio/apple/swift/usr/lib/swift/shims/LibcShims.h"
+- "/home/codio/apple/swift/usr/lib/swift/shims/RuntimeStubs.h"
+- "/home/codio/apple/swift/usr/lib/swift/shims/RuntimeShims.h"
+- "/home/codio/apple/swift/usr/lib/swift/shims/RefCount.h"
+- "/home/codio/apple/swift/usr/lib/swift/shims/HeapObject.h"
+- "/home/codio/apple/swift/usr/lib/swift/shims/GlobalObjects.h"
+- "/home/codio/apple/swift/usr/lib/swift/shims/FoundationShims.h"
+- "/home/codio/apple/swift/usr/lib/swift/shims/DispatchShims.h"
+- "/home/codio/apple/swift/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/home/codio/apple/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/codio/apple/swift/usr/lib/swift/shims/module.modulemap"
+- "/home/codio/apple/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/codio/apple/swift/usr/lib/swift/linux/x86_64/XCTest.swiftmodule"
+- "/home/codio/apple/swift/usr/lib/swift/linux/x86_64/Foundation.swiftmodule"
+- "/home/codio/apple/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/codio/apple/swift/usr/lib/swift/dispatch/module.modulemap"
+- "/home/codio/apple/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/home/codio/workspace/Chapter1/.build/debug/Calculator.swiftmodule"
+interface-hash: "e5cce1a6c013b0c2550fd5ccd1b60f64"
